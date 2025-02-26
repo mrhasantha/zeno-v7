@@ -35,8 +35,8 @@ const Styles = (text, style = 1) => {
   return output.join('');
 };
 
-global.namaowner = "DrayXD"
-global.owner = "6283151568511"
+global.namaowner = "Hasantha"
+global.owner = "94770584736"
 global.namabot = "Zeno-V6"
 global.botname = "Zeno-V6"
 global.simbol = "⌑"
